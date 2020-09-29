@@ -1,2 +1,2 @@
 # wikidex
-Un sitio web para consultar todo tipo de información, implementando el API REST de pokemon (PokeApi)
+Un sitio web para consultar toda la información de cualquier tipo de pokemon, implementando el API REST de pokemon (PokeApi)
